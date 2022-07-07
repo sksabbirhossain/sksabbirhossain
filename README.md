@@ -16,7 +16,7 @@
 - 📫 How to reach me: **follow me**
 - 😄 Pronouns: what is this😄
 - ⚡ Fun fact **I think i am funny**
-- 👨‍💻 All of my projects are available at [My first project]([https://github.com/sksabbirhossain/protfolio](https://wondrous-paprenjak-8a7eb2.netlify.app/))
+- 👨‍💻 All of my projects are available at <a href="https://wondrous-paprenjak-8a7eb2.netlify.app/">My first project</a>
 
 
 

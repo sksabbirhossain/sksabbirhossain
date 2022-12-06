@@ -29,8 +29,8 @@
 <a href="https://instagram.com/sk.sabbir.hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sk.sabbir.hossain" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
- <p align="center">
+<h3 align="start">Languages and Tools:</h3>
+ <p align="start">
       <a href="" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"

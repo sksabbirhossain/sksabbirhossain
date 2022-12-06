@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <p align="center">
+ <p align="start">
       <a href="" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -63,16 +63,6 @@
           height="40"
         />
       </a>
-
-      <a href="" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-          alt="express"
-          width="40"
-          height="40"
-        />
-      </a>
-
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -81,7 +71,14 @@
           height="40"
         />
       </a>
-
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          alt="express"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"

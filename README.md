@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/sksabbir393" target="blank"><img src="https://img.shields.io/twitter/follow/sksabbir393?logo=twitter&style=for-the-badge" alt="sksabbir393" /></a> </p>
 
 - 🔭 I’m currently working on **StarSkSOFT**
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently working **react.js**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help.
 - 💬 Ask me about **javaScript**
